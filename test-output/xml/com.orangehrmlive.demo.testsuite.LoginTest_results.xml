@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LoginPage Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.433">
+  <properties />
+  
+  
+            <testcase name="verifyThatTheLogoDisplayOnHomePage" time="2.405" classname="com.orangehrmlive.demo.testsuite.LoginTest" />
+                <testcase name="verifyUserShouldLoginSuccessFully" time="2.186" classname="com.orangehrmlive.demo.testsuite.LoginTest" />
+                <testcase name="verifyUserShouldLogOutSuccessFully" time="3.842" classname="com.orangehrmlive.demo.testsuite.LoginTest" />
+      
+</testsuite>

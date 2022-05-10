@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LoginPage Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="21.680">
+  <properties />
+  
+  
+            <testcase name="verifyThatAdminShouldDeleteTheUserSuccessFully" time="6.276" classname="com.orangehrmlive.demo.testsuite.UsersTest" />
+                <testcase name="searchTheUserCreatedAndVerifyIt" time="4.249" classname="com.orangehrmlive.demo.testsuite.UsersTest" />
+                <testcase name="searchTheDeletedUserAndVerifyTheMessageNoRecordFound" time="4.840" classname="com.orangehrmlive.demo.testsuite.UsersTest" />
+                <testcase name="adminShouldAddUserSuccessFully" time="6.315" classname="com.orangehrmlive.demo.testsuite.UsersTest" />
+      
+</testsuite>
